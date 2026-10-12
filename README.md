@@ -44,7 +44,7 @@ Employee turnover can increase recruitment costs, disrupt operations, and affect
 
 ## Project Notebook
 
-[View the Python analysis notebook](CASTILLA%20Milestone_Project4.ipynb)
+[View the Python analysis notebook](<CASTILLA Milestone_Project4 (1).ipynb>)
 
 ## Dataset
 
