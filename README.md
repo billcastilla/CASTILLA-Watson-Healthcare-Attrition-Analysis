@@ -46,6 +46,17 @@ Employee turnover can increase recruitment costs, disrupt operations, and affect
 
 [View the Python analysis notebook](<CASTILLA Milestone_Project4 (1).ipynb>)
 
+## Dashboard
+
+Explore the interactive Tableau dashboard:
+
+[View Watson Healthcare Attrition Dashboard](https://public.tableau.com/app/profile/william.castilla/viz/CASTILLAMilestoneProject4/Dashboard2)
+
+## Key Analysis Worksheets
+
+- [Attrition Rate by Overtime](https://public.tableau.com/app/profile/william.castilla/viz/CASTILLAMilestoneProject4/AttritionRatebyOvertime)
+- [Overtime, Work-Life Balance & Attrition](https://public.tableau.com/app/profile/william.castilla/viz/CASTILLAMilestoneProject4/AttritionRatebyOvertimeandWork-LifeBalance)
+
 ## Dataset
 
 The analysis uses a synthetic/fictional healthcare employee dataset for educational and portfolio purposes.
